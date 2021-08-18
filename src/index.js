@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import "./Components/Assets/css/bootstrap.css";
+import "./Components/Assets/css/stayle.css";
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
